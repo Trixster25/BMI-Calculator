@@ -1,0 +1,11 @@
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\obj\Debug\Aguilar_Midterms.csproj.AssemblyReference.cache
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\obj\Debug\Aguilar_Midterms.BMICalculatorForm.resources
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\obj\Debug\Aguilar_Midterms.Properties.Resources.resources
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\obj\Debug\Aguilar_Midterms.csproj.GenerateResource.cache
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\obj\Debug\Aguilar_Midterms.csproj.CoreCompileInputs.cache
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\obj\Debug\Aguilar_Midterms.LoginForm.resources
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\bin\Debug\Aguilar_Midterms.exe.config
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\bin\Debug\Aguilar_Midterms.exe
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\bin\Debug\Aguilar_Midterms.pdb
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\obj\Debug\Aguilar_Midterms.exe
+C:\Users\COMP44\source\repos\Aguilar_Midterms\Aguilar_Midterms\obj\Debug\Aguilar_Midterms.pdb
